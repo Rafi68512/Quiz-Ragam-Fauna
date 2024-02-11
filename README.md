@@ -20,7 +20,7 @@ Ragam Fauna adalah sebuah permainan teka teki yang dikembangkan dengan Game Engi
 
 ## Instalasi
 
-1. Clone repository ini dengan cara `git clone https://github.com/khw15/Penakluk-Samudera.git` atau download repository ini dalam bentuk zip.
+1. Clone repository ini dengan cara `git clone https://github.com/Rafi68512/Quiz-Ragam-Fauna.git` atau download repository ini dalam bentuk zip.
 2. Buka Unity Hub dan klik `Add` untuk menambahkan project.
 3. Pilih folder dimana repository ini di clone atau di download.
 4. Klik project yang sudah ditambahkan.
