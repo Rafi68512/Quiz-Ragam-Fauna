@@ -6,9 +6,9 @@ Ragam Fauna adalah sebuah permainan teka teki yang dikembangkan dengan Game Engi
 
 ## Anggota Kelompok
 
-1. [Muhammad Rafi] (2130511003)
-2. [M.Herdi Al-Fachri] (2130511009)
-3. [M.Garuh Meidy Putra] (2130511045)
+1. [Muhammad Rafi](https://github.com/Rafi68512) (2130511023)
+2. M.Herdi Al-Fachri (2130511027)
+3. M.Garuh Meidy Putra (2130511032)
 
 ## Teknologi yang Digunakan
 
